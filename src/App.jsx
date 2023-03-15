@@ -25,7 +25,7 @@ function App() {
 
 	return (
 		<section className="section-center">
-			<Title title="TIRED OF BORING LOREM IPSUM?" />
+			<Title title="tired of boring lorem ipsum?" />
 			<Form
 				handleSubmit={handleSubmit}
 				handleChange={handleChange}
